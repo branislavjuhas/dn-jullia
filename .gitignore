@@ -1,0 +1,8 @@
+# Borland C++ Build Files
+/build
+
+# Borland C++ Backup & Autosave Files
+*.dsk
+*.swp
+*.sym
+*.bak
